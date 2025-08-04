@@ -22,9 +22,9 @@ Releases of Windows 11:             4
 
 The *Supported CPU* data from previous releases of Windows may be compared with the data in the latest Windows 11 release. From this comparision a list of CPU's deemed *Unsupported* in Windows 11 may be generated.
 
-Using this *Unsupported CPU* the specification of CPU's may be obtained. When reviewing computer products available in the *used computer* market, then this information may be helpful in selecting the best performance computer to get for running Linux.
+Using this *Unsupported CPU* list the specification of CPU's may be researched. When reviewing computer products available in the *used computer* market, then this information may be helpful in selecting the best performance computer to get for running Linux.
 
-Many of the *supported CPU's* on releases prior to 2000 will not have good performance specifications. Thus, only the CPU's that have gone *unsuppoprted* since 2000 are determined.
+Many of the *supported CPU's* on releases prior to 2000 will not have very good performance specifications. Thus, only the CPU's that have become *unsuppoprted* since 2000 are determined.
 
 The python program: [**get_win_tables.py**](./get_win_tables.py) will obtain the *supported* CPU lists from Microsoft's website and store them in a sub-directory as .csv and .json files.
 
