@@ -26,9 +26,9 @@ Using this *Unsupported CPU* list the specification of CPU's may be researched. 
 
 Many of the *supported CPU's* on releases prior to 2000 will not have very good performance specifications. Thus, only the CPU's that have become *unsupported* since 2000 are determined.
 
-The python program: [**get_win_tables.py**](./get_win_tables.py) was used to obtain the *supported* CPU lists from Microsoft's website and store them in a sub-directory as .csv and .json files.
+The python program: [get_win_tables.py](./get_win_tables.py) was used to obtain the *supported* CPU lists from Microsoft's website and store them in a sub-directory as .csv and .json files.
 
-The python program: [**get_win_unsupported.py**](./get_win_unsupported.py) was used to generate the list of all CPU's since 2000, that are now not supported on the latest Windows 11 release.
+The python program: [get_win_unsupported.py](./get_win_unsupported.py) was used to generate the list of all CPU's since 2000, that are now not supported on the latest Windows 11 release.
 
 The lists of the *unsupported* CPU's: 
 
