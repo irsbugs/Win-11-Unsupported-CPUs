@@ -17,7 +17,7 @@ Releases of Windows 10 before 2000: 9
 Releases of Windows 10 since 2000:  5
 Windows 10 End of Support:          October 14, 2025
 Windows 11 first released in:       2021
-Releases of Windows 11:             4
+Releases of Windows 11:             3
 ```
 
 The *Supported CPU* data from previous releases of Windows may be compared with the data in the latest Windows 11 release. From this comparision a list of CPU's deemed *unsupported* in Windows 11 may be generated.
