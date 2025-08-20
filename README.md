@@ -6,7 +6,7 @@ For each release of Windows, Microsoft provides a list of the CPU's that are sup
 
 The latest Windows 11 release (24H2) supports a total of 781 Intel CPU's and 335 AMD CPU's.
 
-The Windows upgrade process will not upgrade Windows 10 or Windows 11 machines that use older/unsuppported CPU's.
+The Windows upgrade process will not upgrade Windows 10 or Windows 11 machines that use older/unsupported CPU's.
 
 Many of these older/unsupported CPU's will become available in computers in the *used computer* market. Most of these computers will be suitable for running the latest Linux distros.
 
