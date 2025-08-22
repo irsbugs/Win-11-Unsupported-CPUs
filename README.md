@@ -4,11 +4,23 @@
 
 For each release of Windows, Microsoft provides a list of the CPU's that are supported.
 
-The latest Windows 11 release (24H2) supports a total of 781 Intel CPU's and 335 AMD CPU's.
+The latest Windows 11 release (24H2) provides a list of 781 Intel and 335 AMD CPU's that are *supported*. Refer to the [Intel](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-24h2-supported-intel-processors) and [AMD](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-24h2-supported-amd-processors) Windows 11 24H2 supported CPU lists.
 
-The Windows upgrade process will not upgrade Windows 10 or Windows 11 machines that use older/unsupported CPU's.
+Computers with CPU's that were *supported* in previous versions of Windows, may fail to upgrade to the latest version of Windows 11 if these computers use CPU's that are not included the latest Windows *supported* list. 
 
-Many of these older/unsupported CPU's will become available in computers in the *used computer* market. Most of these computers will be suitable for running the latest Linux distros.
+From the Microsoft *supported* lists it is possible to make lists of the CPU's that have gone *unsupported*. Since 2015 there were 12 releases of Windows 10 and two releases of Windows 11 that preceed the latest Windows 11 24H2. The total CPU models in these lists of *unsupported* CPU's is:
+
+* 673 Intel
+* 236 AMD
+
+The *used computer* market should be boosted with computers using *unsupported* CPU's being discarded when Windows Users realise their computer hardware will no longer run the latest version of Windows 11. 
+
+Most of these discarded computers will be suitable for running the latest Linux distros.
+
+From the Windows 10 and 11 *supported* lists it is possible to generate lists of the CPU's that have gone *unsupported*. The following are the lists of *unsupported* CPU's.
+
+
+
 
 Summary as of Aug 2025:
 ```
