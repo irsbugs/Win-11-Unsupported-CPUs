@@ -17,7 +17,7 @@ The *used computer* market should be boosted with computers using *unsupported* 
 
 Most of these discarded computers will be suitable for running the latest Linux distros.
 
-From all the Windows 10 and 11 *supported* lists, generated lists can be made of the CPU's that have gone *unsupported*. The following are the lists of *unsupported* CPU's.
+From all the Windows 10 and 11 *supported* lists, generated lists can be made of the CPU's that have gone *unsupported*. The following are the lists of *unsupported* CPU's. It is hoped that using these lists may help with selecting the better performance computers from those available in the *used computer* market. 
 
 
 
