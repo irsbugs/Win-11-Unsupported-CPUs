@@ -8,7 +8,7 @@ The latest Windows 11 release (24H2) provides a list of 781 Intel and 335 AMD CP
 
 Computers with CPU's that were *supported* in previous versions of Windows, may fail to upgrade to the latest version of Windows 11 if these computers use CPU's that are not included in the latest Windows *supported* list. 
 
-From the Microsoft *supported* lists it is possible to make lists of the CPU's that have gone *unsupported*. Since 2015 there were 12 releases of Windows 10 and two releases of Windows 11 that preceed the latest Windows 11 24H2. The totals of CPU models in these previous lists that are no longer supported by Windows 11 24H3 are:
+From the Microsoft *supported* lists it is possible to make lists of the CPU's that have gone *unsupported*. Since 2015 there were 12 releases of Windows 10 and two releases of Windows 11 that preceed the latest Windows 11 24H2. The totals of CPU models in these previous lists that are no longer supported by Windows 11 24H2 are:
 
 * 673 Intel
 * 236 AMD
